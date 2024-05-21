@@ -1,3 +1,0 @@
-([('resume',
-   '/Users/marceline/Desktop/new viscode project/dist/resume',
-   'EXECUTABLE')],)
